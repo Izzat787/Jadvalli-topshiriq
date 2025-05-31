@@ -1,0 +1,30 @@
+.text{
+    color: blue;
+    font-size: 50px;
+}
+.table-1{
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    
+}   
+caption{
+    background-color: aqua;
+    color: black;
+}
+.anna1{
+    background-color: yellow;
+    color: black;
+}
+.anna2{
+    background-color: white;
+    color: black;
+}
+.anna3{
+    background-color: red;
+    color: white;
+}
+.anna4{
+    background-color: green;
+    color: white;
+}
